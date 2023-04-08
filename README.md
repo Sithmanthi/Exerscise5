@@ -10,7 +10,7 @@
     </ul>
   <table boarder="10" cellspacing="5" align="center">
     <tr>
-      <td align="center" height="60" width="500">
+      <td align="center" height="60" width="100">
         <br> <b> Paper </b> </br>
       </td>
      <td align="center" height="60" width="500">

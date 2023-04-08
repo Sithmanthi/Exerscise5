@@ -4,7 +4,7 @@ my exercises
 <main>
 <body>
 <body style=background-color:"khaki;">
-  <center><h1 font-color="red">National IT center</h1></center>
+  <center><h1><p style="color=red">National IT center</p></h1></center>
 </body>
 </main>
 </html>

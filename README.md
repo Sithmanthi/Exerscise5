@@ -8,7 +8,7 @@
   <ul:"center">
     <li>Theory Paper</li>
     </ul>
-  <table boarder="6" cellspacing="3" align="center">
+  <table boarder="10" cellspacing="5" align="center">
     <tr>
       <td align="center" height="60" width="500">
         <br> <b> Paper </b> </br>
